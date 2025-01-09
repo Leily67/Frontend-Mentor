@@ -1,12 +1,8 @@
 # Frontend Mentor - QR Code Component
 
-## 🔗 Aperçu du projet
-
-[Voir le projet en ligne](https://github.com/Leily67/qr-code-component)
-
 ## 📖 Description
 
-Ce projet est une solution au défi **QR Code Component** proposé par Frontend Mentor.  
+Ce projet est une solution au défi **QR Code Component** proposé par [Frontend Mentor](https://www.frontendmentor.io)  
 Il s'agit de créer un composant contenant un QR code avec un design simple et responsive en HTML et CSS.
 
 ## 🚀 Télécharger le projet
